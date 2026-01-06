@@ -57,4 +57,4 @@ GET /api/companies/{company_id}/alerts/low-stock
 
 ## Author
 
-Shantanu S. Pawar
+Shantanu S. Pawar  The case study file link https://docs.google.com/document/d/e/2PACX-1vT_8t-bOkjbVBP1FxHWNfyoHCe10e2o3Ghbhy9amidxmsUuJcA7d4PjQ1oVDJVFPsZBTxDWvOJLRpI6/pub
